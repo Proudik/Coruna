@@ -4,6 +4,7 @@
 "ticker": "STICK",
 "homepage": "https://www.coruna.io",
 "ADAPOOLS": "26e6cab25772769b505d8f5a363e810c",
-"twitter_handle": "@CorunaWorld",
-"url_png_icon_64x64": "https://i.ibb.co/YtG0R7C/profile-pic-64x64.png"
+   "social": {
+            "twitter_handle": "@CorunaWOrld"
+        },
 }
